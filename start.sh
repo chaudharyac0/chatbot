@@ -1,1 +1,0 @@
-python chatbot/manage.py migrate && python chatbot/manage.py runserver 0.0.0.0:8000
